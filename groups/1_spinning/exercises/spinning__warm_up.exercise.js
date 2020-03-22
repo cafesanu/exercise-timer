@@ -1,0 +1,21 @@
+module.exports = () => ({
+  "id": 0,
+  "name": "Warm Up",
+  "description": "",
+  "reps_mode": false,
+  "is_rest": false,
+  "time": 120,
+  "color": 1,
+  "workout_id": 187,
+  "parent_id": 18920,
+  "laps": 1,
+  "is_group": false,
+  "is_parent_exercise": true,
+  "sort_id": 2,
+  "met": 3,
+  "difficulty": 0,
+  "reps": 0,
+  "bell": 0,
+  "metronome_bpm": 0,
+  "exercises": []
+});
